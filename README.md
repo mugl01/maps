@@ -17,6 +17,18 @@ script tag. Then we run parcel.
 
 ```
 parcel index.html
-````
+```
+
+We are to create ramdonly data so we use faker library:
+
+```
+npm install faker
+```
+
+After we have to install typeScript definition file for faker
+
+```
+npm install --save @types/faker
+```
 
 
